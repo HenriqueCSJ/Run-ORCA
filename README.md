@@ -4,4 +4,4 @@ Small script to submit ORCA jobs
 
 run it like this:
 
-**sh run_orca42.sh my_input.sh**
+**sh run_orca42.sh my_input.inp**
